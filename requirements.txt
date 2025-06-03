@@ -6,3 +6,6 @@ librosa
 pyyaml
 mir_eval
 pretty_midi
+torchaudio
+demucs
+pydub
